@@ -2,6 +2,7 @@ numpy
 pandas 
 matplotlib
 lxml 
+html5lib
 seaborn 
 statsmodels 
 scipy
